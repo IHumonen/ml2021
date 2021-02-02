@@ -8,7 +8,7 @@ A)Tree with maximal depth has score 0.95 (not 1.0 because feature strings 4 and 
 
 Task 5  
 Q)Plot performance against maxdepth  
-A)![image.png](attachment:image.png)
+A)![trees_plot.png](attachment:trees_plot.png)
 
 
 ```python
